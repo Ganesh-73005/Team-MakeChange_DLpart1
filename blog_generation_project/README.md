@@ -3,7 +3,7 @@
 
 ## Blog Generation Project
 
-This project scrapes random blog posts from WikiHow, extracts subheadings and paragraphs, and stores them in a CSV file. The project utilizes Python libraries like `requests` and `BeautifulSoup` for web scraping and `csv` for data storage. The fine-tuning of language models is performed using Google Colab notebooks.
+This project scrapes random blog posts from WikiHow, extracts subheadings and paragraphs, and stores them in a CSV file. The project utilizes Python libraries like `requests` and `BeautifulSoup` for web scraping and `csv` for data storage.Upcoming[The fine-tuning of language models is performed using Google Colab notebooks.]
 
 ### Project Structure
 
@@ -30,7 +30,7 @@ blog_generation_project/
 
 ### Requirements
 
-Ensure that you have the following Python libraries installed. You can install them using the provided `requirements.txt`.
+You can install them using the provided `requirements.txt`.
 
 ```bash
 pip install -r requirements.txt
