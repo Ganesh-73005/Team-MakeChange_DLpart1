@@ -1,4 +1,3 @@
-Here's a `README.md` file for your Colab project, including a quick start guide and detailed instructions.
 
 ---
 
